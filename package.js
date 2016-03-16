@@ -1,4 +1,6 @@
 Package.describe({
+  name: "arunoda:streams",
+  version: "0.1.18",
   summary: "DB less realtime communication for meteor"
 });
 
